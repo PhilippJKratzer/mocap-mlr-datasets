@@ -2,6 +2,15 @@
 Here we will maintain a list of motion files captured at the Machine Learning and Robotics Lab of the University of Stuttgart. Check [the humoro project](https://github.com/PhilippJKratzer/humoro) for displaying the data files.
 
 
+## MoGaze: A Dataset of Full-Body Motions that Includes Workspace Geometry and Eye-Gaze
+Website of the dataset: https://humans-to-robots-motion.github.io/mogaze/
+
+Download using:
+```bash
+./mogaze.sh
+```
+
+
 ## upper-body data
 Used in our paper:
 Kratzer, Philipp, Marc Toussaint, and Jim Mainprice. "Towards Combining Motion Optimization and Data Driven Dynamical Models for Human Motion Prediction." 2018 IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids). IEEE, 2018.
